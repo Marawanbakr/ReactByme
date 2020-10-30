@@ -1,0 +1,11 @@
+:root 
+{
+    --main--color:rgb(255, 196, 0);
+}
+*
+{
+    box-sizing: border-box;
+}
+body{
+ font-family: 'Opan sans',sans-serif;
+}
